@@ -1,0 +1,23 @@
+{
+  "name": "js211_addressbookapi",
+  "version": "1.0.0",
+  "description": "Read these instructions and understand the requirements FIRST Whiteboard your app Make a code plan Pseudo code and then translate to JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashagarsson/JS211_AddressBookAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashagarsson/JS211_AddressBookAPI/issues"
+  },
+  "homepage": "https://github.com/sashagarsson/JS211_AddressBookAPI#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
